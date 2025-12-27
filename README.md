@@ -1,2 +1,2 @@
 # github-actions-assignment
-close one issue
+Closes #2
